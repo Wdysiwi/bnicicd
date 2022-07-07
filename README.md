@@ -1,0 +1,2 @@
+# bnicicd
+Latihan cicd
